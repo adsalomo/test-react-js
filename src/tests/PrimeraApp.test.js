@@ -2,7 +2,7 @@ import React from 'react';
 //import { render } from '@testing-library/react';
 import PrimeraApp from '../PrimeraApp';
 import { shallow } from 'enzyme';
-import '@testing-library/jest-dom'
+import '@testing-library/jest-dom';
 
 describe('Pruebas PrimeraApp', () => {
 
